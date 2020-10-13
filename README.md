@@ -1,8 +1,6 @@
 # scientist-programmer-lists
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
-
+This is simple project to build a front-end web application using Ember JS framework. All it does is display names of famous scientiest and programmers
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
@@ -14,7 +12,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone scientist-programmer-lists this repository
 * `cd scientist-programmer-lists`
 * `npm install`
 
